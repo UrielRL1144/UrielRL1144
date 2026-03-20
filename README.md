@@ -1,4 +1,8 @@
-# Uriel Ramos Lucio 👋 | @UrielRL1144
+<p align="center">
+  <img src="Banner.png" alt="Uriel Ramos Lucio - Banner Profesional" width="100%" />
+</p>
+
+<br />
 
 ### Ingeniero Informático Full Stack (PERN) | Arquitectura de Software e IoT
 
@@ -6,7 +10,7 @@ Soy un ingeniero pragmático centrado en resultados, especializado en transforma
 
 ---
 
-## 🛠️ Tech Stack Principal
+## 🛠️ Tech Stack principal
 
 <p align="left">
   <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -27,16 +31,16 @@ Soy un ingeniero pragmático centrado en resultados, especializado en transforma
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
 
-## 🎯 Especialización Técnica
+## 🎯 Especialización técnica
 
-* 🚀 **Rendimiento de Base de Datos:** Implementación de Server-Side Pagination en PostgreSQL para soportar catálogos masivos (+10,000 productos) sin degradación de rendimiento en el frontend.
+* 🚀 **Rendimiento de base de datos:** Implementación de Server-Side Pagination en PostgreSQL para soportar catálogos masivos (+10,000 productos) sin degradación de rendimiento en el frontend.
 * ☁️ **Optimización Cloud:** Lógica de recolección de basura de imágenes huérfanas en Cloudinary para reducción de costos operativos.
-* 🔒 **Integridad de Datos:** Uso riguroso de Soft Deletes para protección de registros contables e históricos.
-* Integración IoT y Lógica Algorítmica.
+* 🔒 **Integridad de datos:** Uso riguroso de Soft Deletes para protección de registros contables e históricos.
+* ⚙️ **Hardware e IoT:** Diseño algorítmico, integración de sensores y exploración activa en la reprogramación y diagnóstico de computadoras automotrices.
 
 ---
 
-## 🚀 Proyectos Destacados (Fijados abajo 👇)
+## 🚀 Proyectos destacados (Fijados abajo 👇)
 
 * 🛒 **Sistema POS & SaaS B2B (Freelance):** Desarrollo integral PERN enfocado en el control de inventario híbrido, cotizaciones dinámicas y facturación para entornos exigentes.
 * 🏛️ **Infraestructura Digital Tahitic (Residencia):** Plataforma web multilingüe (Español, Inglés, Náhuatl) con IA conversacional integrada (DialogFlow).
@@ -46,12 +50,12 @@ Soy un ingeniero pragmático centrado en resultados, especializado en transforma
 
 ## 🏃‍♂️🚴‍♂️ Fuera del Código
 
-Encuentro mi equilibrio y forjo la misma resiliencia mental ante desafíos técnicos complejos en los deportes de resistencia y montaña (running, ciclismo, montañismo).
+Encuentro mi equilibrio y forjo la misma resiliencia mental ante desafíos técnicos complejos en los deportes de resistencia y montaña (running, ciclismo, montañismo). 
 
 ## 📬 Contáctame
 
 <p align="left">
-  <a href="URL_DE_TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/uriel-ramos-lucio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:luciouriel646@gmail.com">
