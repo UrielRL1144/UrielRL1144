@@ -4,9 +4,14 @@
 
 <br />
 
-### Ingeniero Informático Full Stack (PERN) | Arquitectura de Software e IoT
+### Ingeniero Informático | Desarrollador Full Stack Jr. React, TypeScript, Node.js y PostgreSQL. Proyectos web, POS, turismo digital e IoT académico.
 
-Soy un ingeniero pragmático centrado en resultados, especializado en transformar lógicas de negocio complejas en software robusto, escalable y mantenible (Clean Code). Mi enfoque va más allá del desarrollo; busco optimizar recursos (Cloud/BD) y construir soluciones B2B y SaaS de alto rendimiento.
+
+Hola, soy Uriel Ramos Lucio
+
+Ingeniero Informático recién titulado y Desarrollador Full Stack Jr, con experiencia práctica en proyectos web usando React, TypeScript, Node.js, Express y PostgreSQL.
+
+Me interesa construir aplicaciones claras, funcionales y mantenibles, especialmente soluciones orientadas a necesidades reales de usuarios, negocios locales y comunidades.
 
 ---
 
