@@ -36,22 +36,76 @@ Me interesa construir aplicaciones claras, funcionales y mantenibles, especialme
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
 
-## 🎯 Especialización técnica
+🧰 Tecnologías principales
+⚛️ Frontend: React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML5, CSS3, diseño responsivo.
+🛠️ Backend: Node.js, Express.js, creación de APIs REST, autenticación básica con JWT y bcrypt.
+🗄️ Bases de datos: PostgreSQL, SQL, modelado básico de datos y paginación del lado del servidor.
+☁️ Herramientas y despliegue: Git, GitHub, Cloudinary, Railway, Netlify, Firebase, Vercel y Postman.
+📋 Buenas prácticas: documentación técnica, código mantenible, diseño Mobile-First y trabajo con metodología Scrumban.
+🎯 Enfoque técnico
+🚀 Rendimiento en bases de datos: Implementación de paginación del lado del servidor en PostgreSQL para trabajar con catálogos de más de 5,000 registros, reduciendo carga innecesaria en el frontend.
+☁️ Gestión de recursos en Cloud: Limpieza de imágenes no utilizadas en Cloudinary para reducir consumo de almacenamiento y mantener una mejor organización de archivos.
+🔒 Integridad de datos: Uso de soft deletes para conservar historial de información y evitar la eliminación definitiva de registros importantes.
+🌐 Aplicaciones web reales: Desarrollo de interfaces responsivas, administración de contenido, consumo de APIs y funcionalidades orientadas a usuarios finales.
+⚙️ Hardware e IoT: Participación técnica en proyectos con sensores, lógica de control y aplicación remota para dispositivos con enfoque académico e innovador.
+🚀 Proyectos destacados
+🏛️ Plataforma Web Turística de San Juan Tahitic
 
-* 🚀 **Rendimiento de base de datos:** Implementación de Server-Side Pagination en PostgreSQL para soportar catálogos masivos (+10,000 productos) sin degradación de rendimiento en el frontend.
-* ☁️ **Optimización Cloud:** Lógica de recolección de basura de imágenes huérfanas en Cloudinary para reducción de costos operativos.
-* 🔒 **Integridad de datos:** Uso riguroso de Soft Deletes para protección de registros contables e históricos.
-* ⚙️ **Hardware e IoT:** Diseño algorítmico, integración de sensores y exploración activa en la reprogramación y diagnóstico de computadoras automotrices.
+Plataforma web comunitaria desarrollada durante mi residencia profesional para difundir atractivos turísticos, cultura, eventos y contenido multimedia de la región.
 
----
+Tecnologías utilizadas: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Cloudinary y DialogFlow.
 
-## 🚀 Proyectos destacados (Fijados abajo 👇)
+Características principales:
 
-* 🛒 **Sistema POS & SaaS B2B (Freelance):** Desarrollo integral PERN enfocado en el control de inventario híbrido, cotizaciones dinámicas y facturación para entornos exigentes.
-* 🏛️ **Infraestructura Digital Tahitic (Residencia):** Plataforma web multilingüe (Español, Inglés, Náhuatl) con IA conversacional integrada (DialogFlow).
-* ☀️ **XTotonik (IoT):** Desarrollo de hardware/software algorítmico. Galardonado con el 1er lugar regional en "Elevator Pitch" (InnovaTecNM 2024).
+🌎 Soporte multilingüe en Español, Inglés y Náhuatl.
+🤖 Integración de chatbot con DialogFlow.
+📱 Diseño responsivo y enfoque Mobile-First.
+🖼️ Gestión de contenido multimedia.
+🔐 Funcionalidades de administración con autenticación básica.
+🛒 Sistema POS para taller mecánico
 
----
+Proyecto independiente orientado a la gestión de inventario, búsqueda de productos, cotización de servicios y administración de información para un entorno de taller mecánico.
+
+Tecnologías utilizadas: React, TypeScript, Node.js, Express, PostgreSQL y Cloudinary.
+
+Características principales:
+
+📦 Gestión de inventario y catálogo de productos.
+🔍 Búsqueda y paginación del lado del servidor.
+🧾 Módulo para cotización y cálculo dinámico de servicios técnicos.
+☁️ Gestión de imágenes con Cloudinary.
+🛡️ Uso de soft deletes para conservar historial de registros.
+📱 AutoRepair POS PWA
+
+Aplicación web progresiva enfocada en el registro de servicios, cálculo de utilidad y apoyo administrativo para talleres mecánicos.
+
+Tecnologías utilizadas: React, TypeScript, Tailwind CSS, Firebase y Vercel.
+
+Características principales:
+
+📲 Interfaz adaptable a dispositivos móviles.
+🧮 Cálculo de costos, utilidad y servicios.
+⚡ Despliegue web con Vercel.
+🧪 Proyecto orientado a práctica y mejora de experiencia de usuario.
+☀️ XTotonik — Proyecto IoT
+
+Participación técnica en el desarrollo de un dispositivo IoT portátil con alimentación solar, sensores térmicos y aplicación de control remoto.
+
+Logro destacado:
+🏆 1er lugar regional en Elevator Pitch y clasificación a la fase nacional de InnovaTecNM 2024.
+
+Actividades realizadas:
+
+⚙️ Apoyo en la lógica de control del dispositivo.
+🌡️ Interpretación de datos de sensores térmicos.
+📱 Desarrollo de aplicación de control remoto.
+🤝 Colaboración en equipo multidisciplinario de 5 personas.
+📌 Actualmente estoy fortaleciendo
+⚛️ React y TypeScript.
+🧠 Buenas prácticas de desarrollo frontend.
+🗄️ PostgreSQL y diseño de bases de datos.
+🧪 Documentación de proyectos y mejora de repositorios.
+🚀 Desarrollo de proyectos para portafolio profesional.
 
 ## 🏃‍♂️🚴‍♂️ Fuera del Código
 
