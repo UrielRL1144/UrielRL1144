@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Uriel Ramos Lucio - Banner Profesional" width="100%" />
+  <img src="Banner2.png" alt="Uriel Ramos Lucio - Banner Profesional" width="100%" />
 </p>
 
 <br />
